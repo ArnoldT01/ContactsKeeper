@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactsKeeper.Core", "ContactsKeeper.Core\ContactsKeeper.Core.csproj", "{281AA315-AB77-4D6A-BCDA-938EF0D10EFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactsKeeper.Gui", "ContactsKeeper.Gui\ContactsKeeper.Gui.csproj", "{5F842F8E-6D14-4370-99B0-AD8D169B4DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281AA315-AB77-4D6A-BCDA-938EF0D10EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281AA315-AB77-4D6A-BCDA-938EF0D10EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281AA315-AB77-4D6A-BCDA-938EF0D10EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281AA315-AB77-4D6A-BCDA-938EF0D10EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F842F8E-6D14-4370-99B0-AD8D169B4DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F842F8E-6D14-4370-99B0-AD8D169B4DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F842F8E-6D14-4370-99B0-AD8D169B4DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F842F8E-6D14-4370-99B0-AD8D169B4DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EA2FF89-C530-4F5B-95AC-018A9BAEA798}
+	EndGlobalSection
+EndGlobal
