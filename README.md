@@ -1,6 +1,6 @@
 # Contacts Keeper GUI Showcase
 
-### Project Status: Done
+##### Project Status: Done
 
 ## Description
 This project is a showcase of the Contacts Keeper application's GUI design, created using WPF (Windows Presentation Foundation) and MVVM (Model-View-ViewModel) architecture. It highlights the user interface elements and design layout for managing contact information, without implementing full functionality.
